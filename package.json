@@ -1,0 +1,14 @@
+{
+  "name": "archive-files",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Toni Moreira <moreiraatoni@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
